@@ -4,6 +4,6 @@
 
 @section('content')
     @php
-        echo "1941720034, Harist Dani Hisyam RIsyalman";
+        echo "1941720034, Harist Dani Hisyam Risyalman";
     @endphp
 @endsection
